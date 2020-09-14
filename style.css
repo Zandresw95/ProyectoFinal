@@ -1,9 +1,9 @@
 td a{
-color:darkblue;
+color:rgb(165, 165, 245);
 }
 
 td a:hover{
-color:red;
+color:rgb(240, 149, 149);
 
 }
 
@@ -57,7 +57,7 @@ input {
 }
 #btn {
 	width:100px;
-	background: green;
+	background: rgb(176, 245, 176);
 	border: 1px solid #999;
 	border-radius:10px;
 	cursor: pointer;
@@ -148,7 +148,7 @@ text-decoration:none;
 		background: #fff;
 	}
     #resultTable tr:hover {
-          background-color: #ffff99;
+          background-color: #fffff6;
     }
 	
 

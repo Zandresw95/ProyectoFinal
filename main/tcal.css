@@ -101,5 +101,5 @@
 }		
 #tcalGrid td.tcalOtherMonth { color: silver; }
 #tcalGrid td.tcalWeekend { background-color: #ACD6F5; }
-#tcalGrid td.tcalToday { border: 1px solid red; }
+#tcalGrid td.tcalToday { border: 1px solid rgb(255, 175, 175); }
 #tcalGrid td.tcalSelected { background-color: #FFB3BE; }		
