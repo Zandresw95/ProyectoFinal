@@ -53,7 +53,7 @@
 	cursor: pointer;
 }
 .suggestionList ul li:hover {
-	background-color: #FC3;
+	background-color: rgb(253, 250, 242);
 	color:#000;
 }
 ul {

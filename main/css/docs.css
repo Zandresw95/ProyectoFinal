@@ -223,7 +223,7 @@ hr.soften {
 .bs-docs-social {
   padding: 15px 0;
   text-align: center;
-  background-color: green;
+  background-color: rgb(201, 250, 201);
   border-top: 1px solid #fff;
   border-bottom: 1px solid #ddd;
 }
@@ -419,7 +419,7 @@ hr.soften {
   margin-bottom: 9px;
   font-family: Menlo, Monaco, "Courier New", monospace;
   font-size: 12px;
-  color: #d14;
+  color: rgb(255, 255, 255);
 }
 .download-builder input[type=text]:focus {
   background-color: #fff;
