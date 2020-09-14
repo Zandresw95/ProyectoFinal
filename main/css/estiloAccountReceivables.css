@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.sidebar-nav {
+    padding: 9px 0;
+}
+
+#impr{
+    width: 700px; 
+    font-size:11px; 
+    font-family:arial; 
+    font-weight:normal;
+}
+
+#btnb{
+    margin-top: -19px; 
+    margin-bottom: 21px;
+}
+
+#btnback{
+    float: none;
+}
+
+#de{
+    width: 223px; 
+    padding:14px;
+}
+
+#a{
+    width: 223px; 
+    padding:14px;
+}
+
+#buscar{
+    width: 123px; 
+    height:35px; 
+    margin-top:-8px;
+}
+
+#btnimpr{
+    width: 123px; 
+    height:35px; 
+    margin-top:-2px; 
+    float:right;
+}
+
+#report{
+    font-weight:bold; 
+    text-align:center;
+    font-size:14px;
+    margin-bottom: 15px;
+}
+
+#resultTable{
+    text-align: left;
+}
+
+.tot{
+    border-top:1px solid #999999
+}

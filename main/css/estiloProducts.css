@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+#addP{
+    float:right; 
+    width:230px; 
+    height:35px;
+}
+
+#resultTable{
+    text-align: left;
+}
+
+#totprod{
+    font:bold 22px 'Aleo';
+    color: green;
+}
+
+#ntot{
+    text-align:center;
+}
+
+#btnb{
+    margin-top: -19px; 
+    margin-bottom: 21px;
+}
+
+#btnback{
+    float: left;
+}
+
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.sidebar-nav {
+    padding: 9px 0;
+}

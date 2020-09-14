@@ -1,0 +1,21 @@
+
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.sidebar-nav {
+    padding: 9px 0;
+}
+
+.error{
+    color: rgb(139, 50, 50); 
+    text-align: center;
+}
+
+.titu{
+    font:bold 36px 'Aleo';
+    text-shadow:1px 1px 15px rgb(48, 47, 47); 
+    color:#fff;
+    align-content: center;
+}

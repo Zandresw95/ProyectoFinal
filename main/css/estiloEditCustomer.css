@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+#fName{
+    width:265px; 
+    height:30px;
+}
+
+#location{
+    width:265px; 
+    height:30px;
+}
+
+#contact{
+    width:265px; 
+    height:30px;
+}
+
+#nprod{
+    width:265px; 
+    height:60px;
+}
+
+#total{
+    width:265px; 
+    height:30px;
+}
+
+#note{
+    height:60px; 
+    width:265px;
+}
+
+#wdate{
+    width:265px; 
+    height:30px;
+}
+
+#btns{
+    float:right; 
+    margin-right:10px;
+}
+
+#btnsav{
+    width:267px;
+}

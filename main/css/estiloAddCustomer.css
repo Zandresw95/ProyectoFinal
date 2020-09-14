@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+#name{
+    width:265px; 
+    height:30px;
+}
+
+#location{
+    width:265px; 
+    height:30px;
+}
+
+#contact{
+    width:265px;
+    height:30px;
+}
+
+#pName{
+    height:70px; 
+    width:265px;
+}
+
+#total{
+    width:265px; 
+    height:30px;
+}
+
+#note{
+    height:60px; 
+    width:265px;
+}
+
+#dDate{
+    width:265px; 
+    height:30px;
+}
+
+#save{
+    width:267px;
+}
+
+.elbtn{
+    float:right; 
+    margin-right:10px;
+}
+
+
+

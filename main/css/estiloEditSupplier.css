@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+#nprov{
+    width:265px; 
+    height:30px;
+}
+
+#location{
+    width:265px; 
+    height:30px;
+}
+
+#pcont{
+    width:265px; 
+    height:30px;
+}
+
+#ncont{
+    width:265px; 
+    height:30px;
+}
+
+#note{
+    width:265px; 
+    height:80px;
+}
+
+#btns{
+    float:right; 
+    margin-right:10px;
+}
+
+#btnsav{
+    width:267px;
+}
