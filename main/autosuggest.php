@@ -1,5 +1,5 @@
 <?php
-   $db = new mysqli('localhost', 'root' ,'andy1995', 'sales');
+   $db = new mysqli('us-cdbr-east-02.cleardb.com', 'baa1e7556611c5' ,'d3825e54', 'sales');
 	if(!$db) {	
 		echo 'No se pudo conectar a la base de datos';
 	} 

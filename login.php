@@ -10,7 +10,7 @@
 	
 	//Conexion a mysql
 	//crear el objeto de conexion
-	$miconex=new mysqli("localhost","root","andy1995","pos");
+	$miconex=new mysqli("us-cdbr-east-02.cleardb.com","baa1e7556611c5","d3825e54","heroku_e17ca9f7d5231fe");
 	//comprobar conexion
 	if ($miconex->connect_errno) 
 	{
