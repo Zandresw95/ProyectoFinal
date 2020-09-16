@@ -32,11 +32,11 @@
 	
 	//Validacion en PHP
 	if($login == '') {
-		$errmsg_arr[] = 'Username missing';
+		$errmsg_arr[] = 'No ingreso el nombre de usuario';
 		$errflag = true;
 	}
 	if($password == '') {
-		$errmsg_arr[] = 'Password missing';
+		$errmsg_arr[] = 'No ingreso password';
 		$errflag = true;
 	}
 	
@@ -61,7 +61,7 @@
 	//Check whether the query was successful or not
 	if($result) {
 		if(mysqli_num_rows($result) > 0) {
-			//Login Successful
+			//entro
 			session_regenerate_id();
 			$member = mysqli_fetch_assoc($result);
 			$_SESSION['SESS_MEMBER_ID'] = $member['id'];

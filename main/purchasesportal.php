@@ -3,9 +3,7 @@
 ?>
 <html>
 <head>
-<title>
-POS
-</title>
+<title>Productos - Covid</title>
 <?php
 	require_once('auth.php');
 ?>

@@ -117,7 +117,7 @@ $finalcode='RS-'.createRandomPassword();
 									<td><?php echo $row['suplier_contact']; ?></td>
 									<td><?php echo $row['note']; ?></td>
 									<td><a rel="facebox" href="editsupplier.php?id=<?php echo $row['suplier_id']; ?>"><button class="btn btn-warning btn-mini">Editar </button></a>
-									<a href="#" id="<?php echo $row['suplier_id']; ?>" class="delbutton" title="Click To Delete"><button class="btn btn-danger btn-mini">Eliminar</button></a></td>
+									<a href="#" id="<?php echo $row['suplier_id']; ?>" class="delbutton" title="Click para borrar"><button class="btn btn-danger btn-mini">Eliminar</button></a></td>
 								</tr>
 						<?php
 							}
